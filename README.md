@@ -1,4 +1,4 @@
-# Instagram bot <a href="https://github.com/LevPasha/Instagram-bot-cs/releases>v1.2</a>
+# Instagram bot <a href="https://github.com/LevPasha/Instagram-bot-cs/releases> v1.2 </a>
 
 Hi guys! This is my version of Instagram bot with UI, written on C#. Works without the new Instagram [api][2] (the new review process).
 
