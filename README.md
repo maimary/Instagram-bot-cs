@@ -1,4 +1,4 @@
-# Instagram bot <a href="https://github.com/LevPasha/Instagram-bot-cs/releases">v1.2.2</a>
+# Instagram bot <a href="https://github.com/LevPasha/Instagram-bot-cs/releases">v1.2.3</a>
 
 Hi guys! This is my version of Instagram bot with UI, written on C#. Works without the new Instagram [api][2] (the new review process).
 
@@ -15,6 +15,10 @@ In this time I don't want to open source, any you should use it AS-IS.
 All of your data storage local (encrypted), and send ONLY to Instagram by https.
 
 This project will develop, provided YOUR interest in it.
+
+### Whats new in 1.2.3?
+1) Add new checkbox "Don't unfollow if user follow you". If check it (only on full version) - bot will check user for your friendship. If true - don't unfollow him, if false - unfollow him.
+2) Bug fix,
 
 ### Comments
 Be sure comments.dat file have UTF-8 encoding.
