@@ -31,9 +31,11 @@ The End-User assumes sole responsibility for anything resulting from the use thi
 Use it for change "Trial" to "GitHub" version: 7c4645885b1113a1665cb6bb433ee7f6
 
 ### Different version?
-If you want "Full" version - make some donation and I will send key for you (now "Full" same as "GitHub" version).
+If you want "Full" version - make some donation and I will send key for you.
 
-If you want source code of this program - contact me.
+Difference (Full vs GitHub): "Don't unfollow if user follow you".
+
+If you want source code of this program - contact me (it is not free).
 
 <img src="http://lionscrayons.com/upload/Shut-up-and-take-my-money.jpg">
 
