@@ -18,7 +18,8 @@ This project will develop, provided YOUR interest in it.
 
 ### Whats new in 1.2.3?
 1) Add new checkbox "Don't unfollow if user follow you". If check it (only on full version) - bot will check user for your friendship. If true - don't unfollow him, if false - unfollow him.
-2) Bug fix,
+
+2) Bug fix.
 
 ### Comments
 Be sure comments.dat file have UTF-8 encoding.
