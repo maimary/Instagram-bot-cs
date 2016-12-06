@@ -16,10 +16,8 @@ All of your data storage local (encrypted), and send ONLY to Instagram by https.
 
 This project will develop, provided YOUR interest in it.
 
-### Whats new in 1.2.3?
-1) Add new checkbox "Don't unfollow if user follow you". If check it (only on full version) - bot will check user for your friendship. If true - don't unfollow him, if false - unfollow him.
-
-2) Bug fix.
+### Whats new in 1.2.4?
+Just update sig key.
 
 ### Comments
 Be sure comments.dat file have UTF-8 encoding.
@@ -31,7 +29,7 @@ The End-User assumes sole responsibility for anything resulting from the use thi
 Use it for change "Trial" to "GitHub" version: 7c4645885b1113a1665cb6bb433ee7f6
 
 ### Different version?
-If you want "Full" version - make some donation and I will send key for you.
+If you want "Full" version - make ANY donation, then contact me and I will send key for you.
 
 Difference (Full vs GitHub): "Don't unfollow if user follow you".
 
