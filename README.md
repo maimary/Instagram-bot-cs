@@ -24,6 +24,8 @@ You can see differents <a href="http://instabot.pw/#pricing" title="Instabot.pw 
 
 3) New UI.
 
+4) Change like\follow\unfollow\comment per DAY to like\follow\unfollow\comment per HOUR
+
 <img src="http://instabot.pw/wp-content/uploads/2017/02/gh_pic.jpg">
 
 ### Comments
