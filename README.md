@@ -1,6 +1,6 @@
 # <a href="http://instabot.pw/">Instabot.pw</a>
 
-Hi guys! Instabot bot was rebranded to <a href="http://instabot.pw/">Instabot.pw</a>.
+Hi guys! Instabot was rebranded to <a href="http://instabot.pw/">Instabot.pw</a>.
 
 <img src="http://instabot.pw/wp-content/uploads/2017/02/instabot.jpg">
 
