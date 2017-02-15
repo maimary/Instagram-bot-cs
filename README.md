@@ -17,14 +17,9 @@ All of your data storage local (encrypted), and send ONLY to Instagram by https.
 
 You can see differents <a href="http://instabot.pw/#pricing" title="Instabot.pw version">here</a>.
 
-### Whats new in Instabot.pw v1.0.1?
-1) Add proxy support (only in PRO).
+### Whats new in Instabot.pw?
 
-2) Fix some bugs.
-
-3) New UI.
-
-4) Change like\follow\unfollow\comment per DAY to like\follow\unfollow\comment per HOUR
+<a href="https://github.com/LevPasha/Instagram-bot-cs/releases">Changelog</a>
 
 <img src="http://instabot.pw/wp-content/uploads/2017/02/gh_pic.jpg">
 
