@@ -1,4 +1,4 @@
-# <a href="http://instabot.pw/">Instabot.pw</a> <a href="https://github.com/LevPasha/Instagram-bot-cs/archive/v1.0.5.3.zip">[download here]</a>
+# <a href="http://instabot.pw/">Instabot.pw</a> <a href="https://github.com/LevPasha/Instagram-bot-cs/archive/v1.0.5.4.zip">[download here]</a>
 
 Hi guys! Instabot was rebranded to <a href="http://instabot.pw/">Instabot.pw</a>.
 
