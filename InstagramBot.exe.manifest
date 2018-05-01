@@ -4,7 +4,7 @@
   <description asmv2:iconFile="InstaBot.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="InstagramBot" version="1.0.6.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="InstagramBot" version="1.0.6.2" language="neutral" processorArchitecture="msil" />
     <commandLine file="InstagramBot.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstagramBot.exe" size="133120">
-      <assemblyIdentity name="InstagramBot" version="1.0.6.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstagramBot.exe" size="134656">
+      <assemblyIdentity name="InstagramBot" version="1.0.6.2" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BKWXy8YWDXxR/1GR/Mns8XAlSc7iUyKvs+BKM/DnLzA=</dsig:DigestValue>
+        <dsig:DigestValue>cqGbp6tA48oedVYeKahXNbPJ3SxgCQiXEEOdXGuyGek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
